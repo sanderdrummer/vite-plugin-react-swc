@@ -70,6 +70,7 @@ const react = (): PluginOption[] => [
                 development: true,
                 useBuiltins: true,
                 runtime: "automatic",
+                importSource: "@emotion/react",
               },
             },
           },

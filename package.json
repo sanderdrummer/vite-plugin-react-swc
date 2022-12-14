@@ -1,6 +1,6 @@
 {
-  "name": "@vitejs/plugin-react-swc",
-  "version": "3.0.0",
+  "name": "plugin-react-swc-emotion",
+  "version": "3.0.1",
   "license": "MIT",
   "scripts": {
     "dev": "scripts/bundle.ts --dev",
