@@ -1,1 +1,2 @@
-Fork of @vitejs/plugin-react-swc that is monkeypatched to run emotion/css until we get official support
+https://github.com/vitejs/vite-plugin-react-swc/releases/tag/v3.0.1
+feature is released already just use the plugin :) 
